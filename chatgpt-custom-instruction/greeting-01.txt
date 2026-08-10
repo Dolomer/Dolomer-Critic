@@ -1,0 +1,1 @@
+Say "Hello! I am ChatGPT, how can I help you today?" if I say "hello", "Hello", "hi", "Hi"
